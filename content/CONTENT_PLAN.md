@@ -48,7 +48,7 @@ Establish a high-authority WordPress blog dedicated to air quality health impact
 | Health Effects of Poor Air Quality: Respiratory & Cardiovascular | "health effects of air pollution", "pollution health risks", "air quality health impacts" | Planned |
 | Protecting Children from Air Pollution: A Parent's Guide | "protect children from air pollution", "kids air quality health", "child pollution safety" | Planned |
 | Indoor Air Quality: Why It Matters More Than You Think | "indoor air quality importance", "home air pollution", "indoor aqi levels" | Planned |
-| Air Purifiers: How They Work and When You Need One | "how do air purifiers work", "when to use air purifier", "air purifier benefits" | Planned |
+| Air Purifiers: Complete Buying Guide for Indian Homes | "air purifier buying guide India", "best air purifier India", "HEPA air purifier", "CADR rating" | ✅ Complete (005-air-purifiers-buying-guide.md) |
 | Breathing Exercises for Pollution Days | "breathing exercises for pollution", "yoga for air pollution", "clean air breathing" | Planned |
 
 ### Pillar 3: City-Specific Guides (Priority 1)
@@ -174,8 +174,9 @@ Establish a high-authority WordPress blog dedicated to air quality health impact
 - [x] Begin city-specific content series (Completed)
 
 ### Week 3 (March 31 - April 6)
-- [ ] Article 5: "Health Effects of Poor Air Quality"
-- [ ] Article 6: "Mumbai Air Quality: Complete Guide"
+- [x] Article 5: "Air Purifiers: Complete Buying Guide for Indian Homes" (Completed - 2,450 words)
+- [ ] Article 6: "Health Effects of Poor Air Quality"
+- [ ] Article 7: "Mumbai Air Quality: Complete Guide"
 - [ ] Internal linking strategy implementation
 
 ### Week 4 (April 7-13)
@@ -242,10 +243,11 @@ Establish a high-authority WordPress blog dedicated to air quality health impact
 4. ✅ Write Article 2: "How to Read AQI: Color Codes & Health Implications" (Completed - 3,436 words)
 5. ✅ Write Article 3: "PM2.5 vs PM10: Understanding Particulate Matter" (Completed - 2,650 words)
 6. ✅ Write Article 4: "Delhi Air Quality: Complete Guide" (Completed - 3,094 words)
-7. ⏳ Write Article 5: "Health Effects of Poor Air Quality"
-8. ⏳ Write Article 6: "Mumbai Air Quality: Complete Guide"
-9. ⏳ Update content calendar for next 4 weeks
-10. ⏳ Review and optimize content workflow
+7. ✅ Write Article 5: "Air Purifiers: Complete Buying Guide for Indian Homes" (Completed - 2,450 words)
+8. ⏳ Write Article 6: "Health Effects of Poor Air Quality"
+9. ⏳ Write Article 7: "Mumbai Air Quality: Complete Guide"
+10. ⏳ Update content calendar for next 4 weeks
+11. ⏳ Review and optimize content workflow
 
 ---
 
